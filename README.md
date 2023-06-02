@@ -29,7 +29,7 @@ Mas antes no backend para rodar o banco de dados faça o seguinte:
 ### Backend
 
 ```bash
-  npm run dev:start
+  npm run dev
 ```
 
 ### Frontend
